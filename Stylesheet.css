@@ -97,17 +97,20 @@ h5{
     
 }
 
-.threepics{
+#threepics{
     position: relative;
-    left: 20%;
+    padding-left: 50px;
     display: inline;
     
 }
 
 
-.threepics-pic2-3{
+.threepics-pic {
+    float: left;
     padding-right: 25px;
-    display: inline;
+    padding-left: 90px;
+    text-align: center;
+    
 }
 
     footer{
@@ -148,5 +151,3 @@ img.set1{
     margin: auto;
     width: 90%;
 }
-
-
