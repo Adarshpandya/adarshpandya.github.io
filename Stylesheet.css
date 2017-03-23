@@ -100,7 +100,7 @@ h5{
 #threepics{
     margin-right: auto;
     margin-left: auto;
-    display: inline;
+    display: inline-flex;
     
 }
 
